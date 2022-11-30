@@ -32,8 +32,8 @@ class _HomePageScreenState extends State<HomePageScreen> {
   ];
   final recommendedNameArray = [
     "Watermelon Mojitto",
-    "Pink Negroni",
-    "Sex on the Beach",
+    "Cold Coffee",
+    "Blue Lagoon",
   ];
   final recommendedAmountArray = [
     "8,55",
