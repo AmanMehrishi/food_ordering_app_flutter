@@ -1,0 +1,120 @@
+
+{
+
+  "userData": [
+
+    {
+
+      "userId": "101",
+
+      "userFirstName": "Rahul",
+
+      "userLastName": "Sharma",
+
+      "Email": "Rahul.Sharma@gmail.com",
+
+      "Salary": 600000,
+
+      "Experience": 8
+
+    },
+
+    {
+
+      "userId": "102",
+
+      "userFirstName": "Mike",
+
+      "userLastName": "John",
+
+      "Email": "",
+
+      "Salary": 1000000,
+
+      "Experience": 12
+
+    },
+
+    {
+
+      "userId": "103",
+
+      "userFirstName": "Jonathan",
+
+      "userLastName": "Dev",
+
+      "Email": "Jv@gmail.com",
+
+      "Salary": 750000,
+
+      "Experience": 4
+
+    },
+
+    {
+
+      "userId": "104",
+
+      "userFirstName": "Mohit",
+
+      "userLastName": "Sharma",
+
+      "Email": "RajMohit@gmail.com",
+
+      "Salary": 450000,
+
+      "Experience": 2
+
+    },
+
+    {
+
+      "userId": "105",
+
+      "userFirstName": "Mike",
+
+      "userLastName": "John",
+
+      "Email": "john@gmail.com",
+
+      "Salary": 800000,
+
+      "Experience": 6
+
+    },
+
+    {
+
+      "userId": "106",
+
+      "userFirstName": "Jonathan",
+
+      "userLastName": "Deval",
+
+      "Email": "Jv@gmail.com",
+
+      "Salary": 650000,
+
+      "Experience": 5
+
+    },
+
+    {
+
+      "userId": "107",
+
+      "userFirstName": "Natt",
+
+      "userLastName": "Olivia",
+
+      "Email": "no@gmail.com",
+
+      "Salary": 550000,
+
+      "Experience": 3
+
+    }
+
+  ]
+
+}
